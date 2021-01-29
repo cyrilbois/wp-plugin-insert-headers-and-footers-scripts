@@ -23,7 +23,7 @@ msgstr ""
 
 #. Author of the plugin
 msgid "Cyril Bois"
-msgstr ""
+msgstr "Cyril Bois"
 
 #: views/panel.php:28
 msgid "Footer"
@@ -35,15 +35,27 @@ msgstr "En-tête"
 
 #. Author URI of the plugin
 msgid "https://github.com/cyrilbois"
-msgstr ""
+msgstr "https://github.com/cyrilbois"
 
 #. URI of the plugin
 msgid "https://github.com/cyrilbois/wp-plugin-insert-headers-and-footers-scripts"
-msgstr ""
+msgstr "https://github.com/cyrilbois/wp-plugin-insert-headers-and-footers-scripts"
 
 #. Name of the plugin
 msgid "Insert Headers And Footers Scripts"
-msgstr ""
+msgstr "Insert Headers And Footers Scripts"
+
+#: insert-headers-and-footers-scripts.php:57
+msgid "Sorry, you are not allowed to access this admin page."
+msgstr "Désolé, vous n'êtes pas autorisé à accéder à cette page d'administration."
+
+#: insert-headers-and-footers-scripts.php:72
+msgid "Settings not been saved, nonce is wrong."
+msgstr "Les paramètres n'ont pas été enregistrés, nonce est faux."
+
+#: insert-headers-and-footers-scripts.php:76
+msgid "Settings have been saved."
+msgstr "Les paramètres ont été sauvegardés."
 
 #: views/panel.php:49
 msgid "Save"

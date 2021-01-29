@@ -24,6 +24,18 @@ msgstr ""
 msgid "Cyril Bois"
 msgstr ""
 
+#: insert-headers-and-footers-scripts.php:57
+msgid "Sorry, you are not allowed to access this admin page."
+msgstr ""
+
+#: insert-headers-and-footers-scripts.php:72
+msgid "Settings not been saved, nonce is wrong."
+msgstr ""
+
+#: insert-headers-and-footers-scripts.php:76
+msgid "Settings have been saved."
+msgstr ""
+
 #: views/panel.php:28
 msgid "Footer"
 msgstr ""
