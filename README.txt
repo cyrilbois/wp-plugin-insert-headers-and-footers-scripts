@@ -1,7 +1,7 @@
 === Insert Headers And Footers Scripts ===
 Contributors: cyrilbois
 Donate link: https://www.buymeacoffee.com/cyr1l
-Tags: head, header, footer, script, javascript, js, css, google analytics, google adSense, insert script, insert js, insert css, insert javascript, insert css, google analytics, add script, add css, add js
+Tags: head, header, footer, script, javascript, js, css, google analytics, google adSense, insert script, insert js
 Requires at least: 5.6
 Tested up to: 5.6
 Stable tag: 1.0.0
